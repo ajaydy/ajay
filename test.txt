@@ -1,1 +1,13 @@
 my first line
+
+mkdir learn-git
+cd learn-git
+git init  // initiate local git repository
+ls -la  // list directory
+cd ..
+git status 
+git add 
+git commit -m "file name"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git log
