@@ -11,3 +11,6 @@ git commit -m "file name"
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 git log
+
+git remote add origin https://github.com/ajaydy/ajay.git
+git push -u origin master
